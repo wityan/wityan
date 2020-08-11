@@ -1,3 +1,3 @@
 # Heiooo 🙋‍♂️
 
-*Have a nice day*
+👨‍💻 Working for Interdiscount / Microspot as React Developer
