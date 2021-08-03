@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Prettier</title>
+    <g id="DE" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-578.000000, -210.000000)">
+            <g id="Prettier" transform="translate(578.000000, 210.000000)">
+                <circle id="Oval" fill="#0E1116" cx="50" cy="50" r="50"></circle>
+                <g transform="translate(25.000000, 25.000000)" fill-rule="nonzero" id="Rectangle">
+                    <rect fill="#FFFFFF" x="35.7142857" y="9.52380952" width="4.76190476" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#FFFFFF" x="0" y="47.6190476" width="14.2857143" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#FFFFFF" x="28.5714285" y="28.5714285" width="9.52380952" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#FFFFFF" x="14.2857143" y="28.5714285" width="11.9047619" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#FFFFFF" x="0" y="28.5714285" width="11.9047619" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#FFFFFF" x="0" y="38.0952381" width="14.2857143" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#FFFFFF" x="0" y="19.047619" width="14.2857143" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#FFFFFF" x="11.9047619" y="4.76190476" width="26.1904762" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#FFFFFF" x="0" y="4.76190476" width="9.52380952" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#FFFFFF" x="9.52380952" y="42.8571427" width="4.76190476" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#FFFFFF" x="9.52380952" y="14.2857143" width="4.76190476" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#FFFFFF" x="0" y="42.8571427" width="7.14285714" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#FFFFFF" x="0" y="14.2857143" width="7.14285714" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#D0D4D8" opacity="0.5" x="30.9523808" y="42.8571427" width="4.76190476" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#D0D4D8" opacity="0.5" x="16.6666666" y="42.8571427" width="11.9047619" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#D0D4D8" opacity="0.5" x="38.0952381" y="42.8571427" width="11.9047619" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#FFFFFF" x="19.047619" y="23.8095238" width="21.4285715" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#FFFFFF" x="7.14285714" y="23.8095238" width="9.52380952" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#FFFFFF" x="0" y="23.8095238" width="4.76190476" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#FFFFFF" x="21.4285715" y="9.52380952" width="11.9047619" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#FFFFFF" x="0" y="9.52380952" width="19.047619" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#FFFFFF" x="7.14285714" y="33.3333334" width="23.8095238" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#FFFFFF" x="0" y="33.3333334" width="4.76190476" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#FFFFFF" x="28.5714285" y="14.2857143" width="14.2857143" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#FFFFFF" x="28.5714285" y="19.047619" width="14.2857143" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#FFFFFF" x="0" y="0" width="30.9523808" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#D0D4D8" opacity="0.5" x="33.3333334" y="0" width="16.6666666" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#D0D4D8" opacity="0.5" x="33.3333334" y="33.3333334" width="7.14285714" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#D0D4D8" opacity="0.5" x="42.8571427" y="33.3333334" width="7.14285714" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#D0D4D8" opacity="0.5" x="40.4761904" y="28.5714285" width="9.52380952" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#D0D4D8" opacity="0.5" x="40.4761904" y="4.76190476" width="9.52380952" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#D0D4D8" opacity="0.5" x="42.8571427" y="23.8095238" width="7.14285714" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#D0D4D8" opacity="0.5" x="42.8571427" y="9.52380952" width="7.14285714" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#D0D4D8" opacity="0.5" x="45.2380953" y="14.2857143" width="4.76190476" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#D0D4D8" opacity="0.5" x="45.2380953" y="19.047619" width="4.76190476" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#D0D4D8" opacity="0.5" x="26.1904762" y="38.0952381" width="23.8095238" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#D0D4D8" opacity="0.5" x="16.6666666" y="38.0952381" width="7.14285714" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#D0D4D8" opacity="0.5" x="35.7142857" y="47.6190476" width="14.2857143" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#D0D4D8" opacity="0.5" x="16.6666666" y="47.6190476" width="16.6666666" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#D0D4D8" opacity="0.5" x="16.6666666" y="14.2857143" width="9.52380952" height="2.38095238" rx="1.19047619"></rect>
+                    <rect fill="#D0D4D8" opacity="0.5" x="16.6666666" y="19.047619" width="9.52380952" height="2.38095238" rx="1.19047619"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

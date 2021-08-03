@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Sketch</title>
+    <g id="DE" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-79.000000, -817.000000)">
+            <g id="Sketch" transform="translate(79.000000, 817.000000)">
+                <circle id="Oval" fill="#0E1116" cx="50" cy="50" r="50"></circle>
+                <g id="sketchapp-icon" transform="translate(22.000000, 25.000000)" fill-rule="nonzero">
+                    <g id="A-link" fill="#FFFFFF">
+                        <polygon id="A" points="12.1648947 1.64610389 27.8782044 0 43.5915141 1.64610389 55.7575084 17.8289436 27.879304 49.9988938 0 17.8289436"></polygon>
+                    </g>
+                    <g id="Group" transform="translate(0.000000, 18.023580)" fill="#FFFFFF">
+                        <g id="B-link">
+                            <polygon id="B" points="11.2929105 0 27.879304 31.9764203 0 0"></polygon>
+                        </g>
+                        <g id="C-link" transform="translate(41.820623, 15.988210) scale(-1, 1) translate(-41.820623, -15.988210) translate(27.880421, 0.000000)">
+                            <polygon id="C" points="11.2929105 0 27.8804036 31.9764203 0 0"></polygon>
+                        </g>
+                    </g>
+                    <g id="D-link" transform="translate(11.039997, 18.023580)" fill="#F5F5F5">
+                        <polygon id="D" points="0 0 33.106811 0 16.5534055 31.9764203"></polygon>
+                    </g>
+                    <g id="Group" transform="translate(11.039997, 0.000000)" fill="#EBEBEB">
+                        <g id="E-link">
+                            <polygon id="E" points="16.2741066 0 0.8554902 1.66369752 0 18.0224735"></polygon>
+                        </g>
+                        <g id="F-link" transform="translate(24.960985, 9.011237) scale(-1, 1) translate(-24.960985, -9.011237) translate(16.823932, 0.000000)">
+                            <polygon id="F" points="16.2741066 0 0.8554902 1.66369752 0 18.0224735"></polygon>
+                        </g>
+                    </g>
+                    <g id="Group" transform="translate(0.000513, 1.743979)" fill="#F5F5F5">
+                        <g id="G-link" transform="translate(49.661370, 8.139802) scale(-1, 1) translate(-49.661370, -8.139802) translate(43.562429, 0.000000)">
+                            <polygon id="G" points="0 16.2796046 12.1978828 0 11.3225997 16.2796046"></polygon>
+                        </g>
+                        <g id="H-link" transform="translate(0.000000, 0.000087)">
+                            <polygon id="H" points="0 16.2796046 12.1967832 0 11.3215001 16.2796046"></polygon>
+                        </g>
+                    </g>
+                    <g id="I-link" transform="translate(11.040515, 0.000098)" fill="#E1E1E1">
+                        <polygon id="I" points="16.5534055 0 0 18.0224735 33.106811 18.0224735"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
