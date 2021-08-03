@@ -13,4 +13,4 @@ jobs:
         with:
           feed-url: https://medium.com/feed/@wityan
           readme-section: feed
-          template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
+          template: "#### [{{ title }}]({{ link }}) ({{ pubDate }})"

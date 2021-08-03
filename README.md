@@ -30,4 +30,6 @@ I am Frontend Developer based in Switzerland. Currently I am working on a large 
 <!--START_SECTION:feed-->
 <!--END_SECTION:feed-->
 
+## 😼  Github stats
+
 ![Wityan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wityan&hide=prs,issues,commits&theme=radical)
