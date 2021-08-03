@@ -1,12 +1,10 @@
-# 👋 Heioooo
+# 👋  Heioooo
 
 I am Frontend Developer based in Switzerland. Currently I am working on a large E-Banking solution for a swiss bank.
 
----
+## 🛠  Currently using
 
-## 🛠 Currently using
-
-### 🦋 Frontend
+### 🦋  Frontend
 ![React](./techstack/React.svg)
 ![Next](./techstack/Next.svg)
 ![TypeScript](./techstack/TypeScript.svg)
@@ -18,22 +16,18 @@ I am Frontend Developer based in Switzerland. Currently I am working on a large 
 ![Stylelint](./techstack/Stylelint.svg)
 ![Prettier](./techstack/Prettier.svg)
 
-### 🐙 Backend
+### 🐙  Backend
 ![Node](./techstack/Node.svg)
 ![Strapi](./techstack/Strapi.svg)
 ![Laravel](./techstack/Laravel.svg)
 ![Mysql](./techstack/Mysql.svg)
 ![Mongodb](./techstack/Mongodb.svg)
 
-### 🎨 Design
+### 🎨  Design
 ![Sketch](./techstack/Sketch.svg)
 
----
-
-## 📖 Latest posts from medium
+## 📖  Latest posts from medium
 <!--START_SECTION:feed-->
 <!--END_SECTION:feed-->
-
----
 
 ![Wityan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wityan&hide=prs,issues,commits&theme=radical)
