@@ -1,6 +1,6 @@
 # 👋  Heioooo
 
-I am Frontend Developer based in Switzerland. Currently I am working on a large E-Banking solution for a swiss bank.
+I am Frontend Developer based in Switzerland working for a Bern based consulting company.
 
 ## 🛠  Currently using
 
